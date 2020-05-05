@@ -82,7 +82,7 @@ a{
 }
 #welcome-section{
     background-image: url("hotros.jpg");
-    height:100vh;
+    height:50vh;
     background-size: cover;
     width:85%;
     margin:auto;
